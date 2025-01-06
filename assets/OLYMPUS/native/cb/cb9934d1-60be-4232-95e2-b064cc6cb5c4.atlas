@@ -1,0 +1,167 @@
+
+tb_lbalpks_jiangb.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a3
+  rotate: false
+  xy: 458, 7
+  size: 166, 240
+  orig: 166, 240
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 0, 3
+  size: 244, 244
+  orig: 244, 244
+  offset: 0, 0
+  index: -1
+a4b
+  rotate: false
+  xy: 246, 26
+  size: 210, 221
+  orig: 210, 221
+  offset: 0, 0
+  index: -1
+b01
+  rotate: true
+  xy: 712, 10
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+b02
+  rotate: true
+  xy: 786, 10
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+b03
+  rotate: true
+  xy: 860, 10
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+b04
+  rotate: true
+  xy: 934, 10
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+b05
+  rotate: true
+  xy: 1008, 10
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+b06
+  rotate: true
+  xy: 1082, 10
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+b07
+  rotate: true
+  xy: 1156, 10
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+b08
+  rotate: true
+  xy: 1230, 10
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+c6
+  rotate: true
+  xy: 626, 0
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+d01
+  rotate: false
+  xy: 1466, 114
+  size: 131, 133
+  orig: 131, 133
+  offset: 0, 0
+  index: -1
+d02
+  rotate: false
+  xy: 1599, 114
+  size: 131, 133
+  orig: 131, 133
+  offset: 0, 0
+  index: -1
+d03
+  rotate: false
+  xy: 1732, 114
+  size: 131, 133
+  orig: 131, 133
+  offset: 0, 0
+  index: -1
+d04
+  rotate: true
+  xy: 1865, 116
+  size: 131, 133
+  orig: 131, 133
+  offset: 0, 0
+  index: -1
+e01
+  rotate: false
+  xy: 626, 92
+  size: 118, 155
+  orig: 118, 155
+  offset: 0, 0
+  index: -1
+e02
+  rotate: false
+  xy: 746, 92
+  size: 118, 155
+  orig: 118, 155
+  offset: 0, 0
+  index: -1
+e03
+  rotate: false
+  xy: 866, 92
+  size: 118, 155
+  orig: 118, 155
+  offset: 0, 0
+  index: -1
+e04
+  rotate: false
+  xy: 986, 92
+  size: 118, 155
+  orig: 118, 155
+  offset: 0, 0
+  index: -1
+e05
+  rotate: false
+  xy: 1106, 92
+  size: 118, 155
+  orig: 118, 155
+  offset: 0, 0
+  index: -1
+e06
+  rotate: false
+  xy: 1226, 92
+  size: 118, 155
+  orig: 118, 155
+  offset: 0, 0
+  index: -1
+e07
+  rotate: false
+  xy: 1346, 92
+  size: 118, 155
+  orig: 118, 155
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,265 @@
+
+tb_lbalpks_jackpot.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a4
+  rotate: false
+  xy: 0, 366
+  size: 187, 250
+  orig: 187, 250
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 0, 830
+  size: 308, 141
+  orig: 308, 141
+  offset: 0, 0
+  index: -1
+b01
+  rotate: false
+  xy: 0, 217
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b02
+  rotate: false
+  xy: 0, 68
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b03
+  rotate: false
+  xy: 310, 824
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b04
+  rotate: false
+  xy: 470, 824
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b05
+  rotate: false
+  xy: 630, 824
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b06
+  rotate: false
+  xy: 790, 824
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b07
+  rotate: false
+  xy: 239, 675
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b08
+  rotate: false
+  xy: 399, 675
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b09
+  rotate: false
+  xy: 559, 675
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+c6
+  rotate: true
+  xy: 591, 382
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+d01
+  rotate: false
+  xy: 719, 689
+  size: 131, 133
+  orig: 131, 133
+  offset: 0, 0
+  index: -1
+d02
+  rotate: false
+  xy: 852, 689
+  size: 131, 133
+  orig: 131, 133
+  offset: 0, 0
+  index: -1
+d03
+  rotate: false
+  xy: 189, 481
+  size: 131, 133
+  orig: 131, 133
+  offset: 0, 0
+  index: -1
+d04
+  rotate: false
+  xy: 189, 346
+  size: 131, 133
+  orig: 131, 133
+  offset: 0, 0
+  index: -1
+e00
+  rotate: false
+  xy: 0, 0
+  size: 150, 66
+  orig: 150, 66
+  offset: 0, 0
+  index: -1
+e01
+  rotate: true
+  xy: 950, 831
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+e02
+  rotate: false
+  xy: 239, 616
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+e03
+  rotate: false
+  xy: 381, 616
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+e04
+  rotate: false
+  xy: 523, 616
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+e05
+  rotate: false
+  xy: 449, 557
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+e06
+  rotate: false
+  xy: 449, 498
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+e07
+  rotate: false
+  xy: 449, 439
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+e08
+  rotate: true
+  xy: 591, 474
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+e09
+  rotate: false
+  xy: 449, 380
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+e10
+  rotate: true
+  xy: 287, 204
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+e11
+  rotate: true
+  xy: 346, 210
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+e12
+  rotate: true
+  xy: 405, 210
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+e13
+  rotate: true
+  xy: 287, 62
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+e14
+  rotate: true
+  xy: 346, 68
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+e15
+  rotate: true
+  xy: 405, 68
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+f01
+  rotate: false
+  xy: 160, 214
+  size: 125, 130
+  orig: 125, 130
+  offset: 0, 0
+  index: -1
+f02
+  rotate: false
+  xy: 160, 82
+  size: 125, 130
+  orig: 125, 130
+  offset: 0, 0
+  index: -1
+f03
+  rotate: false
+  xy: 322, 484
+  size: 125, 130
+  orig: 125, 130
+  offset: 0, 0
+  index: -1
+f04
+  rotate: false
+  xy: 322, 352
+  size: 125, 130
+  orig: 125, 130
+  offset: 0, 0
+  index: -1
+h01
+  rotate: false
+  xy: 0, 618
+  size: 237, 210
+  orig: 237, 210
+  offset: 0, 0
+  index: -1

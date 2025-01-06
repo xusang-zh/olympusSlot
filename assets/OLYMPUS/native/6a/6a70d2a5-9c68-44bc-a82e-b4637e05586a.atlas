@@ -1,0 +1,181 @@
+
+tb_lbalpks_huangg.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a3
+  rotate: true
+  xy: 0, 0
+  size: 258, 187
+  orig: 258, 187
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 0, 260
+  size: 244, 244
+  orig: 244, 244
+  offset: 0, 0
+  index: -1
+b01
+  rotate: false
+  xy: 960, 283
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+b02
+  rotate: false
+  xy: 960, 209
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+b03
+  rotate: false
+  xy: 1042, 283
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+b04
+  rotate: false
+  xy: 1042, 209
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+b05
+  rotate: false
+  xy: 1124, 283
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+b06
+  rotate: false
+  xy: 1124, 209
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+b07
+  rotate: false
+  xy: 1206, 283
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+b08
+  rotate: false
+  xy: 1206, 209
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+c6
+  rotate: true
+  xy: 1957, 414
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+d01
+  rotate: false
+  xy: 640, 237
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+d02
+  rotate: false
+  xy: 837, 357
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+d03
+  rotate: false
+  xy: 997, 357
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+d04
+  rotate: false
+  xy: 1157, 357
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+d05
+  rotate: false
+  xy: 1317, 357
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+d06
+  rotate: false
+  xy: 1477, 357
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+d07
+  rotate: false
+  xy: 1637, 357
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+d08
+  rotate: false
+  xy: 1797, 357
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+d09
+  rotate: false
+  xy: 800, 208
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+e01
+  rotate: false
+  xy: 246, 386
+  size: 195, 118
+  orig: 195, 118
+  offset: 0, 0
+  index: -1
+e02
+  rotate: false
+  xy: 246, 266
+  size: 195, 118
+  orig: 195, 118
+  offset: 0, 0
+  index: -1
+e03
+  rotate: false
+  xy: 443, 386
+  size: 195, 118
+  orig: 195, 118
+  offset: 0, 0
+  index: -1
+e04
+  rotate: false
+  xy: 443, 266
+  size: 195, 118
+  orig: 195, 118
+  offset: 0, 0
+  index: -1
+e05
+  rotate: false
+  xy: 640, 386
+  size: 195, 118
+  orig: 195, 118
+  offset: 0, 0
+  index: -1

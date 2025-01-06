@@ -1,0 +1,139 @@
+
+tb_lbalpks_hongssj.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a3
+  rotate: false
+  xy: 0, 172
+  size: 336, 338
+  orig: 336, 338
+  offset: 0, 0
+  index: -1
+b01
+  rotate: false
+  xy: 0, 23
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b02
+  rotate: false
+  xy: 338, 363
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b03
+  rotate: false
+  xy: 160, 23
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b04
+  rotate: false
+  xy: 338, 214
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b05
+  rotate: false
+  xy: 498, 363
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b06
+  rotate: false
+  xy: 498, 214
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b07
+  rotate: false
+  xy: 658, 363
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b08
+  rotate: false
+  xy: 658, 214
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b09
+  rotate: false
+  xy: 818, 363
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b10
+  rotate: false
+  xy: 818, 214
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b11
+  rotate: false
+  xy: 338, 65
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+c6
+  rotate: false
+  xy: 783, 128
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+d01
+  rotate: false
+  xy: 498, 107
+  size: 93, 105
+  orig: 93, 105
+  offset: 0, 0
+  index: -1
+d02
+  rotate: false
+  xy: 498, 0
+  size: 93, 105
+  orig: 93, 105
+  offset: 0, 0
+  index: -1
+d03
+  rotate: false
+  xy: 593, 107
+  size: 93, 105
+  orig: 93, 105
+  offset: 0, 0
+  index: -1
+d04
+  rotate: false
+  xy: 593, 0
+  size: 93, 105
+  orig: 93, 105
+  offset: 0, 0
+  index: -1
+d05
+  rotate: false
+  xy: 688, 107
+  size: 93, 105
+  orig: 93, 105
+  offset: 0, 0
+  index: -1
+d06
+  rotate: false
+  xy: 688, 0
+  size: 93, 105
+  orig: 93, 105
+  offset: 0, 0
+  index: -1

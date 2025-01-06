@@ -1,0 +1,104 @@
+
+kgx_jackpotbt_bairsjb.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 477, 211
+  size: 226, 61
+  orig: 226, 61
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 0, 345
+  size: 536, 134
+  orig: 536, 134
+  offset: 0, 0
+  index: -1
+b01
+  rotate: false
+  xy: 0, 276
+  size: 268, 67
+  orig: 268, 67
+  offset: 0, 0
+  index: -1
+b02
+  rotate: false
+  xy: 538, 412
+  size: 268, 67
+  orig: 268, 67
+  offset: 0, 0
+  index: -1
+b03
+  rotate: false
+  xy: 0, 207
+  size: 268, 67
+  orig: 268, 67
+  offset: 0, 0
+  index: -1
+b04
+  rotate: false
+  xy: 0, 138
+  size: 268, 67
+  orig: 268, 67
+  offset: 0, 0
+  index: -1
+b05
+  rotate: false
+  xy: 0, 69
+  size: 268, 67
+  orig: 268, 67
+  offset: 0, 0
+  index: -1
+b06
+  rotate: true
+  xy: 270, 75
+  size: 268, 67
+  orig: 268, 67
+  offset: 0, 0
+  index: -1
+b07
+  rotate: false
+  xy: 0, 0
+  size: 268, 67
+  orig: 268, 67
+  offset: 0, 0
+  index: -1
+b08
+  rotate: true
+  xy: 339, 75
+  size: 268, 67
+  orig: 268, 67
+  offset: 0, 0
+  index: -1
+b09
+  rotate: true
+  xy: 408, 75
+  size: 268, 67
+  orig: 268, 67
+  offset: 0, 0
+  index: -1
+b10
+  rotate: false
+  xy: 538, 343
+  size: 268, 67
+  orig: 268, 67
+  offset: 0, 0
+  index: -1
+b11
+  rotate: false
+  xy: 477, 274
+  size: 268, 67
+  orig: 268, 67
+  offset: 0, 0
+  index: -1
+e7
+  rotate: false
+  xy: 808, 439
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

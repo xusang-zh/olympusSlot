@@ -1,0 +1,90 @@
+
+yxz_xctx_aolpks.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b01
+  rotate: false
+  xy: 0, 524
+  size: 250, 260
+  orig: 250, 260
+  offset: 0, 0
+  index: -1
+b02
+  rotate: false
+  xy: 0, 262
+  size: 250, 260
+  orig: 250, 260
+  offset: 0, 0
+  index: -1
+b03
+  rotate: false
+  xy: 252, 524
+  size: 250, 260
+  orig: 250, 260
+  offset: 0, 0
+  index: -1
+b04
+  rotate: false
+  xy: 0, 0
+  size: 250, 260
+  orig: 250, 260
+  offset: 0, 0
+  index: -1
+b05
+  rotate: false
+  xy: 252, 262
+  size: 250, 260
+  orig: 250, 260
+  offset: 0, 0
+  index: -1
+b06
+  rotate: false
+  xy: 504, 524
+  size: 250, 260
+  orig: 250, 260
+  offset: 0, 0
+  index: -1
+b07
+  rotate: false
+  xy: 252, 0
+  size: 250, 260
+  orig: 250, 260
+  offset: 0, 0
+  index: -1
+b08
+  rotate: false
+  xy: 504, 262
+  size: 250, 260
+  orig: 250, 260
+  offset: 0, 0
+  index: -1
+b09
+  rotate: false
+  xy: 756, 524
+  size: 250, 260
+  orig: 250, 260
+  offset: 0, 0
+  index: -1
+b10
+  rotate: false
+  xy: 504, 0
+  size: 250, 260
+  orig: 250, 260
+  offset: 0, 0
+  index: -1
+b11
+  rotate: false
+  xy: 756, 262
+  size: 250, 260
+  orig: 250, 260
+  offset: 0, 0
+  index: -1
+b12
+  rotate: false
+  xy: 756, 0
+  size: 250, 260
+  orig: 250, 260
+  offset: 0, 0
+  index: -1

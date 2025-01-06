@@ -1,0 +1,181 @@
+
+tb_lbalpks_jiabq.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a0
+  rotate: false
+  xy: 753, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 0, 324
+  size: 181, 186
+  orig: 181, 186
+  offset: 0, 0
+  index: -1
+a2_1
+  rotate: false
+  xy: 0, 167
+  size: 163, 155
+  orig: 163, 155
+  offset: 0, 0
+  index: -1
+a2_2
+  rotate: false
+  xy: 0, 10
+  size: 162, 155
+  orig: 162, 155
+  offset: 0, 0
+  index: -1
+a2_3
+  rotate: false
+  xy: 183, 355
+  size: 163, 155
+  orig: 163, 155
+  offset: 0, 0
+  index: -1
+a2_4
+  rotate: false
+  xy: 348, 356
+  size: 163, 154
+  orig: 163, 154
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 646, 106
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 566, 68
+  size: 78, 144
+  orig: 78, 144
+  offset: 0, 0
+  index: -1
+a6b
+  rotate: true
+  xy: 485, 0
+  size: 65, 97
+  orig: 65, 97
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 485, 67
+  size: 79, 145
+  orig: 79, 145
+  offset: 0, 0
+  index: -1
+a7b
+  rotate: true
+  xy: 646, 39
+  size: 65, 97
+  orig: 65, 97
+  offset: 0, 0
+  index: -1
+b01
+  rotate: false
+  xy: 513, 363
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b02
+  rotate: false
+  xy: 673, 363
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b03
+  rotate: false
+  xy: 833, 363
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b04
+  rotate: false
+  xy: 183, 206
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b05
+  rotate: false
+  xy: 165, 57
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b06
+  rotate: false
+  xy: 513, 214
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b07
+  rotate: false
+  xy: 673, 214
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b08
+  rotate: false
+  xy: 833, 214
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+b09
+  rotate: false
+  xy: 325, 57
+  size: 158, 147
+  orig: 158, 147
+  offset: 0, 0
+  index: -1
+c6
+  rotate: false
+  xy: 855, 128
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+d01
+  rotate: false
+  xy: 584, 7
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+d02
+  rotate: false
+  xy: 947, 153
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+d03
+  rotate: false
+  xy: 947, 92
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+d04
+  rotate: true
+  xy: 855, 69
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
